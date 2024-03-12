@@ -1,0 +1,8 @@
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/service/CarServiceImpl.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/service/CarService.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/mapper/CarMapper.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/domain/Car.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/feign/StudentFeignFallback.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/feign/StudentFeign.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/rest/CarController.java
+/Users/yerencheng501/Documents/Code/Java/my-spring-project/mybatis-demo/src/main/java/com/yerencheng/mybatisdemo/MybatisDemoApplication.java
